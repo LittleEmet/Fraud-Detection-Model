@@ -1,1 +1,1 @@
-It's a predictive model. What's else to say?
+It's a predictive model. What else to say?
